@@ -1,0 +1,23 @@
+{
+  "Status": 3 /* NXDOMAIN */,
+  "TC": false,
+  "RD": true,
+  "RA": true,
+  "AD": true,
+  "CD": false,
+  "Question": [
+    {
+      "name": "colocup.ma.",
+      "type": 1 /* A */
+    }
+  ],
+  "Authority": [
+    {
+      "name": "ma.",
+      "type": 6 /* SOA */,
+      "TTL": 1800,
+      "data": "c.tld.ma. ma.anrt.ma. 2039132888 900 90 604800000 1800"
+    }
+  ],
+  "Comment": "Response from 193.51.208.13."
+}
